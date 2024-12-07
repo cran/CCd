@@ -1,4 +1,4 @@
-\name{Density, distribution function and quantile function of the CC distribution}
+\name{dcc}
 \alias{dcc}
 \alias{pcc}
 \alias{qcc}
@@ -48,8 +48,7 @@ As for the quantile function we use the \code{\link{optimize}} function to find 
 }
 
 \references{
-Papadatos N. (2022). The characteristic function of the discrete Cauchy distribution In Memory of T. Cacoullos.
-Journal of Statistical Theory and Practice, 16(3): 47.
+Papadatos N. (2022). The characteristic function of the discrete Cauchy distribution In Memory of T. Cacoullos. Journal of Statistical Theory and Practice, 16(3): 47.
 }
 
 \author{
